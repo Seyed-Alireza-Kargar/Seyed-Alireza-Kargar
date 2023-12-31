@@ -33,22 +33,34 @@ A sophomore student at Sampad AmirKabir High School in Mashhad 🏫, specializin
 
 <br>
 <h2>☎️ Contact Me :</h2>
-<a href="https://github.com/Seyed-Alireza-Kargar"><img src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/github.png?raw=true" width=35 alt="github"></a> 
-<a href="www.linkedin.com/in/seyed-alireza-kargar"><img src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/linkedin.png?raw=true" width="35" alt="linkedin"></a>
-<a href="https://t.me/Alirza_kr"><img src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/telegram.png?raw=true" width="35" alt="telegram"></a>
+<a href="https://github.com/Seyed-Alireza-Kargar">
+<img src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/icons/github.png?raw=true" width=35 alt="github">
+</a>
+<a href="www.linkedin.com/in/seyed-alireza-kargar">
+<img src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/icons/linkedin.png?raw=true" width="35" alt="linkedin">
+</a>
+<a href="https://t.me/Alirza_kr">
+<img src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/icons/telegram.png?raw=true" width="35" alt="telegram">
+</a>
 
 <br>
 <h2>🌱 Currently Learning:</h2>
-<h3 align="left">🔮 Python | 80%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="400px" height="16px">
+<h3 align="left">🔮 Python | 80%</h3>
+<img align="left" src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/icons/blue-bar.jpg?raw=true" width="400px" height="16px">
 <br>
-<h3 align="left">🔮 OpenCV | 65%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="325px" height="16px">
+<h3 align="left">🔮 OpenCV | 65%</h3>
+<img align="left" src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/icons/blue-bar.jpg?raw=true" width="325px" height="16px">
 <br>
-<h3 align="left">🔮 Vue.js/Quasar | 55%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="275px" height="16px">
+<h3 align="left">🔮 Vue.js/Quasar | 55%</h3>
+<img align="left" src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/icons/blue-bar.jpg?raw=true" width="275px" height="16px">
 <br>
-<h3 align="left">🔮 Bootstrap - Tailwind | 75%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="375px" height="16px">
+<h3 align="left">🔮 Bootstrap - Tailwind | 75%</h3>
+<img align="left" src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/icons/blue-bar.jpg?raw=true" width="375px" height="16px">
 <br>
-<h3 align="left">🔮 Machine Learning | 30%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="150px" height="16px">
+<h3 align="left">🔮 Machine Learning | 30%</h3>
+<img align="left" src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/icons/blue-bar.jpg?raw=true" width="150px" height="16px">
 <br>
+
 <br>
 
 <h2>💻 Currently Working On: </h2>
