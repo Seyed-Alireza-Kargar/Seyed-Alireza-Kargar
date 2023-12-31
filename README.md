@@ -33,9 +33,9 @@ A sophomore student at Sampad AmirKabir High School in Mashhad 🏫, specializin
 
 <br>
 <h2>☎️ Contact Me :</h2>
-<a href="https://github.com/Seyed-Alireza-Kargar"><img src="../Seyed-Alireza-Kargar/github-sign.png" width=35 alt="github"></a> 
-<a href="www.linkedin.com/in/seyed-alireza-kargar"><img src="../Seyed-Alireza-Kargar/linkedin.png" width="35" alt="linkedin"></a>
-<a href="https://t.me/Alirza_kr"><img src="../Seyed-Alireza-Kargar/telegram.png" width="35" alt="telegram"></a>
+<a href="https://github.com/Seyed-Alireza-Kargar"><img src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/github-sign.png?raw=true" width=35 alt="github"></a> 
+<a href="www.linkedin.com/in/seyed-alireza-kargar"><img src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/linkedin.png?raw=true" width="35" alt="linkedin"></a>
+<a href="https://t.me/Alirza_kr"><img src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/telegram.png?raw=true" width="35" alt="telegram"></a>
 
 <br>
 <h2>🌱 Currently Learning:</h2>
