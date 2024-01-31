@@ -44,7 +44,7 @@ A sophomore student at Sampad AmirKabir High School in Mashhad 🏫, specializin
 </a>
 
 <br>
-<h2>🌱 Currently Learning:</h2>
+<!-- <h2>🌱 Currently Learning:</h2>
 <h3 align="left">🔮 Python | 80%</h3>
 <img align="left" src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/icons/blue-bar.jpg?raw=true" width="400px" height="16px">
 <br>
@@ -60,8 +60,24 @@ A sophomore student at Sampad AmirKabir High School in Mashhad 🏫, specializin
 <h3 align="left">🔮 Machine Learning | 30%</h3>
 <img align="left" src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/icons/blue-bar.jpg?raw=true" width="150px" height="16px">
 <br>
-
+ -->
 <br>
+
+# 📊 GitHub Stats:
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Seyed-Alireza-Kargar&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Seyed-Alireza-Kargar&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seyed-Alireza-Kargar&show_icons=true" />
+</picture>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Seyed-Alireza-Kargar&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
 <h2>💻 Currently Working On: </h2>
 
@@ -75,3 +91,13 @@ A sophomore student at Sampad AmirKabir High School in Mashhad 🏫, specializin
   - Engaged in the development of an educational website focused on teaching AI using AI technologies.
 
 - **And more ...**
+
+
+
+
+<br>
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=Seyed-Alireza-Kargar&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
