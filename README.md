@@ -1,8 +1,7 @@
 <h2 align="center">Hello 👋 I'm Alireza Kargar 👨‍💻</h2>
 <h3 align="center">AI and Front-end Developer</h3>
 <p align="center">
-A sophomore student at Sampad AmirKabir High School in Mashhad 🏫, specializing in networking and software. I'm an intermediate Python programmer 🐍 and a junior front-end developer 🌐. I'm passionate about artificial intelligence, image processing, and robotics 🤖, and currently learning and working in these domains 📚.
-</p>
+A sophomore student at Sampad AmirKabir High School in Mashhad 🏫, specializing in networking and software. I'm an intermediate Python programmer 🐍 and a junior front-end developer 🌐. I'm passionate about artificial intelligence, image processing, and robotics 🤖, and currently learning and working in these domains 📚. Co-Founder of Mega Vision Team, where I actively contribute to pioneering advancements in AI and image processing.🚀</p>
 <br/>
 <h2>🎓 Skills and Tools:</h2>
 
