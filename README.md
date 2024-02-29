@@ -62,7 +62,7 @@ A sophomore student at Sampad AmirKabir High School in Mashhad 🏫, specializin
  -->
 <br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Status:
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Seyed-Alireza-Kargar&show_icons=true&theme=dark"
