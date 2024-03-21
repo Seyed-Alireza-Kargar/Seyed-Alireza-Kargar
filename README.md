@@ -35,7 +35,7 @@ A sophomore student at Sampad AmirKabir High School in Mashhad 🏫, specializin
 <a href="https://github.com/Seyed-Alireza-Kargar">
 <img src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/icons/github.png?raw=true" width=35 alt="github">
 </a>
-<a href="www.linkedin.com/in/seyed-alireza-kargar">
+<a href="https://linkedin.com/in/seyed-alireza-kargar">
 <img src="https://github.com/Seyed-Alireza-Kargar/Seyed-Alireza-Kargar/blob/main/icons/linkedin.png?raw=true" width="35" alt="linkedin">
 </a>
 <a href="https://t.me/Alirza_kr">
