@@ -63,7 +63,7 @@ A sophomore student at Sampad AmirKabir High School in Mashhad 🏫, specializin
 <br>
 
 # 📊 GitHub Stats:
-![Seyed-Alireza-Kargar's Stats](https://github-readme-stats.vercel.app/api?username=Seyed-Alireza-Kargar&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true)
+![Seyed-Alireza-Kargar's Stats](https://github-readme-stats.vercel.app/api?username=Seyed-Alireza-Kargar&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
 
 ![Seyed-Alireza-Kargar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyed-Alireza-Kargar&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact)
 
